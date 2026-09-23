@@ -2,6 +2,10 @@
 
 A personal portfolio website showcasing my education, technical skills, projects, learning journey, and contact information.
 
+## 🌐 Live Portfolio
+
+[View my live portfolio](https://farheen-portfolio-gamma.vercel.app/)
+
 ## About Me
 
 I'm a third-year CSE-IoT student and an aspiring software engineer. I enjoy learning by building practical projects and have explored software development, AI/ML, data science, and web development through academic work, hands-on projects, and hackathons. I'm currently looking for an entry-level opportunity where I can contribute to real-world projects, learn from experienced professionals, and continue developing my technical skills.
